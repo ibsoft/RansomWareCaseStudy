@@ -1,0 +1,11 @@
+C:\Users\IoannisBouhras\source\repos\SystemZ\SystemZ\bin\Debug\SystemZ.exe.config
+C:\Users\IoannisBouhras\source\repos\SystemZ\SystemZ\bin\Debug\SystemZ.exe
+C:\Users\IoannisBouhras\source\repos\SystemZ\SystemZ\bin\Debug\SystemZ.pdb
+C:\Users\IoannisBouhras\source\repos\SystemZ\SystemZ\bin\Debug\DotNetZip.dll
+C:\Users\IoannisBouhras\source\repos\SystemZ\SystemZ\bin\Debug\DotNetZip.pdb
+C:\Users\IoannisBouhras\source\repos\SystemZ\SystemZ\bin\Debug\DotNetZip.xml
+C:\Users\IoannisBouhras\source\repos\SystemZ\SystemZ\obj\Debug\SystemZ.csproj.AssemblyReference.cache
+C:\Users\IoannisBouhras\source\repos\SystemZ\SystemZ\obj\Debug\SystemZ.csproj.CoreCompileInputs.cache
+C:\Users\IoannisBouhras\source\repos\SystemZ\SystemZ\obj\Debug\SystemZ.csproj.CopyComplete
+C:\Users\IoannisBouhras\source\repos\SystemZ\SystemZ\obj\Debug\SystemZ.exe
+C:\Users\IoannisBouhras\source\repos\SystemZ\SystemZ\obj\Debug\SystemZ.pdb
